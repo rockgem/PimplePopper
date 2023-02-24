@@ -48,7 +48,7 @@ var _levels: Dictionary = {
 		},
 		{
 
-			"name": "K_BUTTOCKS_LEVEL_BUTTON",
+	  "name": "K_BUTTOCKS_LEVEL_BUTTON",
 			"code": "buttocks"
 		}
 	],
