@@ -48,7 +48,8 @@ var _levels: Dictionary = {
 		},
 		{
 
-	  "name": "K_BUTTOCKS_LEVEL_BUTTON",
+
+	  "name": "K_BUTTOCKS_BUTTON",
 			"code": "buttocks"
 		}
 	],
@@ -62,7 +63,7 @@ var _levels: Dictionary = {
 			"code": "forehead"
 		},
 		{
-			"name": "K_NOSE_LEVEL_BUTTON",
+			"name": "K_NOSE_BUTTON",
 			"code": "nose"
 		}
 	],
@@ -80,7 +81,7 @@ var _levels: Dictionary = {
 			"code": "back"
 		},
 		{
-			"name": "K_SHIN_LEVEL_BUTTON",
+			"name": "K_SHIN_BUTTON",
 			"code": "shin"
 		}
 	],
