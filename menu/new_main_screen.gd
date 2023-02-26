@@ -15,6 +15,9 @@ var langs = [
 	['zh_TW', 'K_CN_TRAD_SELECTION'],
 	['ru', 'K_RUSSIAN_SELECTION'],
 	['sr', 'K_SERBIAN_SELECTION'],
+	['fr', 'K_FRENCH_SELECTION'],
+	['it', 'K_ITALIAN_SELECTION'],
+	['pt_br', 'K_PT_SELECTION'],
 ]
 
 
