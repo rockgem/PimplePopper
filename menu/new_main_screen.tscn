@@ -72,7 +72,7 @@ grow_horizontal = 2
 alignment = 1
 
 [node name="Play" type="Button" parent="Panel/VBoxContainer"]
-margin_right = 298.0
+margin_right = 284.0
 margin_bottom = 60.0
 rect_min_size = Vector2( 0, 60 )
 focus_mode = 0
@@ -91,7 +91,7 @@ stretch_mode = 6
 
 [node name="About" type="Button" parent="Panel/VBoxContainer"]
 margin_top = 64.0
-margin_right = 298.0
+margin_right = 284.0
 margin_bottom = 124.0
 rect_min_size = Vector2( 0, 60 )
 focus_mode = 0
@@ -110,7 +110,7 @@ stretch_mode = 6
 
 [node name="Options" type="Button" parent="Panel/VBoxContainer"]
 margin_top = 128.0
-margin_right = 298.0
+margin_right = 284.0
 margin_bottom = 188.0
 rect_min_size = Vector2( 0, 60 )
 focus_mode = 0
